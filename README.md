@@ -7,7 +7,7 @@
 
   ## General info
 
-Przygotowany na laboratoria Programowania obiektowego projekt to proste narzędzie do zapisywania sesji treningowych. Użytkownik nawigując po menu dostaje możliwość skomponowania jednostek treningowych z kilkunastu różnych dostępnych ćwiczen kalistenicznych. Po dokonaniu wyboru program prosi użytkownika o podanie niezbędnych informacji takich jak ilość serii, liczba powtórzeń czy czas trwania. W momencie zakończenia działania narzędzia użytkownik może dodać krótką notatkę. Następnie całość informacji o treningu zapisywana jest do pliku tekstowego z wysczególnieniem obecnej daty. 
+Przygotowany na laboratoria Programowania obiektowego projekt to proste narzędzie do zapisywania sesji treningowych. Użytkownik nawigując po menu dostaje możliwość skomponowania jednostek treningowych z kilkunastu różnych dostępnych ćwiczen kalistenicznych. Po dokonaniu wyboru program prosi użytkownika o podanie niezbędnych informacji takich jak ilość serii, liczba powtórzeń czy czas trwania. W momencie zakończenia działania narzędzia użytkownik może dodać krótką notatkę. Następnie całość informacji o treningu zapisywana jest do pliku tekstowego z wyszczególnieniem obecnej daty. 
 
 
 ## Technologies
